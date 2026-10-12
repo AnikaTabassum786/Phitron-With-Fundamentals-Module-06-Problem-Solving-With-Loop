@@ -11,7 +11,6 @@ int main()
     for (int i = 1; i <= n; i++)
     {
         scanf("%d", &x);
-
         if (max < x)
         {
             max = x;
@@ -20,3 +19,5 @@ int main()
     printf("%d", max);
     return 0;
 }
+
+

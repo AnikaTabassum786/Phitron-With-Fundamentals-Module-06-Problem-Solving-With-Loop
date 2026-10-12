@@ -1,1 +1,1 @@
- printf("%d",x);
+x*i
